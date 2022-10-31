@@ -21,6 +21,6 @@ using project-based peer learning. For more information, visit
 
 <p align="center">
   <img
-    src="https://www.alxafrica.com/wp-content/uploads/2022/01/banner-img-2.png"
-    alt="ALX Program">
+    src="https://https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Logo">
 </p>
